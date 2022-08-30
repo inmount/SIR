@@ -2,6 +2,8 @@
 
 一种服务于脚本执行的可二进制化指令语言
 
+此仓库已搬迁至<https://github.com/Sheng-Sheng-Man/SIR>
+
 ## 支持的虚拟机
 
 SEVM：Script Execution Virtual Machine <https://github.com/inmount/SEVM>
